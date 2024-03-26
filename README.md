@@ -1,1 +1,1 @@
-Welcome to my SQL Project. Here you will find PostgreSQL and MySQL Projects
+Welcome, here you will find PostgreSQL and MySQL Projects

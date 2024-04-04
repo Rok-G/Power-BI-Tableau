@@ -31,10 +31,6 @@ The dataset encompasses a variety of health metrics for countries worldwide, spa
 
 **Ensuring data integrity**: We meticulously identify and eliminate duplicate records, address missing values, and correct inconsistencies.
 
-![AVG_age OK7](https://github.com/Rok-G/SQL_Projects/assets/154329858/04ef3e6b-96d6-4c97-b037-af15f1b5608a)
-![AVG_life5](https://github.com/Rok-G/SQL_Projects/assets/154329858/a5ab74ff-8ffb-437e-85cb-cc1066a7af43)
-![AVG_where6](https://github.com/Rok-G/SQL_Projects/assets/154329858/20c5c0f8-291c-4c79-ad49-ad434e03511c)
-![BlankStatus3](https://github.com/Rok-G/SQL_Projects/assets/154329858/8c1aa1cf-708e-480f-b137-6c45cb7cb0b3)
 ![Duplicate Year _Cleaning1](https://github.com/Rok-G/SQL_Projects/assets/154329858/9bf0a336-54be-4029-ae0f-a5f9f6c88d41)
 ![Row_ID_Duplicates2](https://github.com/Rok-G/SQL_Projects/assets/154329858/ebaf3a03-423c-46bc-bec3-06c09afa1b98)
 

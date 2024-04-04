@@ -68,4 +68,7 @@ Investigating the relationship between BMI and life expectancy revealed interest
 ## Contributing
 
 Contributions to this project are welcome! Please fork the repository and submit a pull request with your suggested changes.
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
 

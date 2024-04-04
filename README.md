@@ -7,7 +7,6 @@ This project dives deep into **exploring**, **cleaning**, and **analyzing** the 
 ## 💻 Technologies Used
 
 - **MySQL** for robust database management and sophisticated query execution.
-- **Python** for powerful data manipulation and striking visualizations (if applicable).
 
 ## 🚀 How to Use
 

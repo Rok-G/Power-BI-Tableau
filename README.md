@@ -39,21 +39,18 @@ The dataset encompasses a variety of health metrics for countries worldwide, spa
 
 We examine how life expectancy has evolved over 15 years, pinpointing countries with significant improvements.
 
-![3](https://github.com/Rok-G/SQL_Projects/assets/154329858/157421f9-ae34-409f-a185-237deb8bcba3)
 ![1](https://github.com/Rok-G/SQL_Projects/assets/154329858/4dff9f5b-bcc2-464c-bddc-1ee4640c7406)
 
 ### The Relationship Between GDP and Life Expectancy
 
 Our analysis reveals a compelling correlation between a nation's wealth (GDP) and the health of its people.
 
-![2](https://github.com/Rok-G/SQL_Projects/assets/154329858/8376fdca-341b-4cd8-b841-f396137087a5)
 ![2](https://github.com/Rok-G/SQL_Projects/assets/154329858/ebdd6194-23cb-44c8-a757-6702eddf6a4a)
 
 ### BMI Versus Life Expectancy
 
 A closer look at the complex interaction between BMI and life expectancy sheds light on global health patterns.
 
-![EDA4](https://github.com/Rok-G/SQL_Projects/assets/154329858/1ff62883-f98d-4a8a-9ec6-16e3e6355abf)
 ![3](https://github.com/Rok-G/SQL_Projects/assets/154329858/c50fd9ca-3140-4d2a-a02e-a3e2b42052b0)
 
 ## 💡 Insights and Conclusions

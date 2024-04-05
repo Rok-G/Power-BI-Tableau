@@ -39,9 +39,7 @@ The dataset encompasses a variety of health metrics for countries worldwide, spa
 
 We examine how life expectancy has evolved over 15 years, pinpointing countries with significant improvements.
 
-<p align="center">
-  <img src="https://github.com/Rok-G/SQL_Projects/assets/154329858dc8391b9-59d5-4962-91f3-1d5aa611d961" width="400" height="400">
-</p>
+![life_expectancy_increase_bar_400](https://github.com/Rok-G/SQL_Projects/assets/154329858/4cb49d0d-0de8-487c-bb71-9c0e404daf0b)
 
 ### The Relationship Between GDP and Life Expectancy
 

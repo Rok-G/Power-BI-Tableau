@@ -4,7 +4,7 @@
 
 This project dives deep into **exploring**, **cleaning**, and **analyzing** the World Life Expectancy dataset. Our aim is to uncover insightful trends about global health, focusing on factors like life expectancy, GDP, adult mortality, and BMI across various countries over time.
 
-## 💻 Technologies Used
+## 💻 Tools Used
 
 - **MySQL** for robust database management and sophisticated query execution.
 

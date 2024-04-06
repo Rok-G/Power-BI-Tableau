@@ -36,17 +36,19 @@ Ensuring the integrity and accuracy of our dataset is paramount. This involves r
 
 Our analysis begins with an examination of how household incomes vary from state to state, highlighting areas with the highest and lowest income levels. This not only illustrates the vast economic diversity across the country but also pinpoints regions where disparities are most pronounced.
 
-<img width="982" alt="1" src="https://github.com/Rok-G/SQL_Projects/assets/154329858/c8951453-6de6-456b-90e2-061651244cbb">
 <img width="986" alt="2" src="https://github.com/Rok-G/SQL_Projects/assets/154329858/65699ad2-0daf-4e14-b147-f4d967be0d84">
-<img width="974" alt="3" src="https://github.com/Rok-G/SQL_Projects/assets/154329858/82ce1784-1aff-4d36-be58-b52ddf107867">
 
 ### Geographic Patterns in Income Data
 
 We delve into the relationship between a state's geographical features (such as land and water area) and its average household income. This segment of the analysis aims to reveal how natural geography and the allocation of land resources correlate with economic prosperity or hardship.
 
+<img width="982" alt="1" src="https://github.com/Rok-G/SQL_Projects/assets/154329858/c8951453-6de6-456b-90e2-061651244cbb">
+
 ### Impact of Urbanization on Income
 
 The project further explores how different classifications of living areas—urban, suburban, rural, etc.—influence income levels. This aspect of our research sheds light on the socioeconomic dynamics at play, offering insights into the economic ramifications of urbanization trends.
+
+<img width="974" alt="3" src="https://github.com/Rok-G/SQL_Projects/assets/154329858/82ce1784-1aff-4d36-be58-b52ddf107867">
 
 ## 💡 Conclusions and Insights
 

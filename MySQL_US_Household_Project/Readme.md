@@ -2,7 +2,7 @@
 
 ## 🌟 Overview
 
-This initiative meticulously explores the US Household Income dataset to uncover patterns of income distribution across different states and understand the economic disparities that characterize various regions. By examining the mean and median household incomes, geographical attributes, and the impact of urbanization, this project seeks to provide a comprehensive analysis of the factors influencing income levels throughout the United States.
+This project explores the US Household Income dataset to uncover patterns of income distribution across different states and understand the economic disparities that characterize various regions. By examining the mean and median household incomes, geographical attributes, and the impact of urbanization, this project seeks to provide a comprehensive analysis of the factors influencing income levels throughout the United States.
 
 ## 💻 Tools Used
 

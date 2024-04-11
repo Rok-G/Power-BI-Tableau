@@ -54,4 +54,4 @@ Initially, manually invoke the `Copy_and_Clean_Data` procedure to populate the c
 
 ## Conclusions 🎉
 
-This project underscores the significance of automated data cleaning in enhancing data quality and reliability. By leveraging MySQL's advanced features, we've established a robust framework for maintaining clean and accurate datasets, facilitating more informed economic analyses and decisions.
+This project underscores the significance of automated data cleaning in enhancing data quality and reliability. By leveraging MySQL's advanced features, we've established a robust framework for maintaining clean and accurate datasets, facilitating more informed analyses and decisions.

@@ -17,8 +17,6 @@ Through this project, we sought to answer:
 
 ## Tools I Used 🔧
 
-This project is built on the foundation of several essential tools:
-
 - **MySQL:** The backbone of our data cleaning, enabling sophisticated querying and automation capabilities.
 
 ## The Analysis 🕵️

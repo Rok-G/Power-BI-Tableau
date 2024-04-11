@@ -56,7 +56,7 @@ Through this detailed exploration, the project uncovers significant insights int
 
 ## 🤝 Contributing
 
-We welcome contributions to enhance the project's depth and breadth. Whether through additional analysis, refining data cleaning methods, or expanding the dataset, your input can help enrich this exploration.
+Feel free to fork this project and contribute! Whether it's adding new analyses, enhancing the data cleaning process, or improving the documentation, your contributions are welcome.
 
 ## ©️ License
 

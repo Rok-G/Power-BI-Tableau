@@ -2,9 +2,7 @@
 
 ## Introduction
 
-📊 Welcome to our dive into the vast ocean of US household income data! This project focuses on automating data cleaning processes, aiming to enhance the accuracy and reliability of data analytics in the financial domain. 
-
-🔍 Discover our SQL queries here: `project_sql` folder
+📊  This project focuses on automating data cleaning processes, aiming to enhance the accuracy and reliability of data analytics in the financial domain. 
 
 ## Background
 

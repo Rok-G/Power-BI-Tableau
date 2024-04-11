@@ -44,9 +44,7 @@ This project employs MySQL stored procedures and events to automate the data cle
 
 ## Execution
 
-Initially, manually invoke the `Copy_and_Clean_Data` procedure to populate the cleaned dataset:
-
-CALL Copy_and_Clean_Data();
+Initially, manually invoke the `Copy_and_Clean_Data` procedure to populate the cleaned dataset.
 
 - The event and trigger will automatically handle subsequent data cleaning.
 
@@ -58,4 +56,4 @@ CALL Copy_and_Clean_Data();
 
 ## Conclusions
 
--This project underscores the significance of automated data cleaning in enhancing data quality and reliability. By leveraging MySQL's advanced features, we've established a robust framework for maintaining clean and accurate datasets, facilitating more informed economic analyses and decisions.
+This project underscores the significance of automated data cleaning in enhancing data quality and reliability. By leveraging MySQL's advanced features, we've established a robust framework for maintaining clean and accurate datasets, facilitating more informed economic analyses and decisions.

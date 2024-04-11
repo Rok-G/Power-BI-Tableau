@@ -2,11 +2,11 @@
 
 ## Introduction
 
-📊  This project focuses on automating data cleaning processes, aiming to enhance the accuracy and reliability of data analytics in the financial domain. 
+📊  This project focuses on automating data cleaning processes, aiming to enhance the accuracy and reliability of data analytics.
 
 ## Background
 
-Fueled by the necessity for precise and cleansed data in economic research, this project was conceived. It leverages SQL to automate the cleaning of US household income data, preparing it for insightful analysis and decision-making.
+This project leverages SQL to automate the cleaning of US household income data, preparing it for insightful analysis and decision-making.
 
 Data originates from a comprehensive dataset detailing household incomes across the United States, enriched with geographical and demographic details.
 
@@ -20,12 +20,10 @@ Through this project, we sought to answer:
 This project is built on the foundation of several essential tools:
 
 - **MySQL:** The backbone of our data cleaning, enabling sophisticated querying and automation capabilities.
-- **MySQL Workbench:** A unified visual tool for database architects, developers, and DBAs.
-- **Git & GitHub:** For version control, enabling collaboration and efficient tracking of changes in SQL scripts.
 
 ## The Analysis
 
-This project employs MySQL stored procedures, events, and triggers to automate the data cleaning process. Here’s a glimpse into the methodology:
+This project employs MySQL stored procedures and events to automate the data cleaning process. Here’s a glimpse into the methodology:
 
 1. **Automated Data Copying and Cleaning**
    - A stored procedure (`Copy_and_Clean_Data`) duplicates the original dataset, preserving raw data and creating a new cleaned version for analysis.
@@ -33,9 +31,6 @@ This project employs MySQL stored procedures, events, and triggers to automate t
 
 2. **Event Scheduling for Regular Data Cleaning**
    - A MySQL event (`run_data_cleaning`) is scheduled to automatically invoke the data cleaning procedure, ensuring the dataset remains current and clean.
-
-3. **Trigger-based Cleaning Upon Data Insertion**
-   - A trigger (`Transfer_Clean_Data`) calls the cleaning procedure whenever new data is inserted into the raw dataset, maintaining data integrity in real-time.
 
 ## Instructions
 
@@ -55,3 +50,13 @@ Initially, manually invoke the `Copy_and_Clean_Data` procedure to populate the c
 ```sql
 CALL Copy_and_Clean_Data();
 - The event and trigger will automatically handle subsequent data cleaning.
+
+##  What I Learned
+
+   - 🔄 Automation with MySQL: Developed proficiency in automating data cleaning tasks using stored procedures, triggers, and events.
+  -  🔒 Data Integrity Maintenance: Gained insights into maintaining a pristine dataset while preserving the original data for auditability.
+   - 🧹 Clean Data Best Practices: Learned the importance of consistent data cleaning practices for reliable analysis and decision-making.
+
+## Conclusions
+
+-This project underscores the significance of automated data cleaning in enhancing data quality and reliability. By leveraging MySQL's advanced features, we've established a robust framework for maintaining clean and accurate datasets, facilitating more informed economic analyses and decisions.

@@ -35,9 +35,7 @@ This project employs MySQL stored procedures and events to automate the data cle
 ## Instructions
 
 1. **Event Scheduler Activation:**
-   Ensure the MySQL Event Scheduler is enabled to allow automatic execution of the cleaning process. You can enable the scheduler by running:
-   ```sql
-   SET GLOBAL event_scheduler = ON;
+   Ensure the MySQL Event Scheduler is enabled to allow automatic execution of the cleaning process. You can enable the scheduler by ensuring that the event scheduler is enabled in your MySQL instance. This can be checked with SHOW VARIABLES LIKE 'event_scheduler'; and enabled with SET GLOBAL event_scheduler = ON;. Without the event scheduler enabled, the CREATE EVENT statement will not produce an error, but the event will not run as expected.
    
 ## Deployment
 
@@ -48,12 +46,11 @@ This project employs MySQL stored procedures and events to automate the data cle
 
 Initially, manually invoke the `Copy_and_Clean_Data` procedure to populate the cleaned dataset:
 
-```sql
 CALL Copy_and_Clean_Data();
 
 - The event and trigger will automatically handle subsequent data cleaning.
 
-##  What I Learned
+## The Analysis
 
    - 🔄 Automation with MySQL: Developed proficiency in automating data cleaning tasks using stored procedures, triggers, and events.
   -  🔒 Data Integrity Maintenance: Gained insights into maintaining a pristine dataset while preserving the original data for auditability.

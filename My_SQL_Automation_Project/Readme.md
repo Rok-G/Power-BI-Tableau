@@ -1,6 +1,6 @@
 # Automated Data Cleaning Project on US Household Income 
 
-## Introduction 🌟
+🌟 ## Introduction 
 
 📊 This project focuses on automating data cleaning processes, aiming to enhance the accuracy and reliability of data analytics.
 

@@ -60,4 +60,4 @@ Feel free to fork this project and contribute! Whether it's adding new analyses,
 
 ## ©️ License
 
-This project is open-sourced under the MIT License. See the [License.md](./License.md) file for more details.
+This project is open-sourced under the MIT License. See the [LICENSE.md](./LICENSE.md) file for more details.

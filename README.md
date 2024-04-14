@@ -32,5 +32,4 @@ Your feedback is invaluable! If you have suggestions on how to improve these pro
 Thank you for exploring my SQL projects!
 
 ## ©️ License
-
-Each project is licensed individually. Please review the `LICENSE` file in the respective project folder for more details.
+All projects within this repository are open-sourced under the MIT License. Feel free to use, modify, and distribute them as you see fit. Please refer to the [LICENSE](License.md) file in the root of this repository for the full license text.

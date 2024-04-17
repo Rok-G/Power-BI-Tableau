@@ -29,7 +29,7 @@ If you'd like to use the SQL scripts or methodologies as a foundation for your o
 
 Your feedback is invaluable! If you have suggestions on how to improve these projects or if you've found an interesting way to extend the analysis, please don't hesitate to reach out or contribute.
 
-Thank you for exploring my SQL projects!
+Thank you for exploring my SQL projects.
 
 ## ©️ License
 All projects within this repository are open-sourced under the MIT License. Feel free to use, modify, and distribute them as you see fit. Please refer to the [LICENSE](License.md) file in the root of this repository for the full license text.

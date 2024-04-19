@@ -1,6 +1,6 @@
 # 🗂 SQL Projects Collection
 
-👋 Welcome to my collection of SQL projects! This repository serves as a portfolio of the various analytical challenges I've tackled using SQL. Each subdirectory in this repository is a standalone SQL project, complete with its own set of files and resources.
+👋 Welcome to my collection of SQL projects. This repository serves as a portfolio of the various analytical challenges I've tackled using SQL. Each subdirectory in this repository is a standalone SQL project, complete with its own set of files and resources.
 
 ## 📁 Repository Structure
 

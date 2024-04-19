@@ -27,7 +27,7 @@ If you'd like to use the SQL scripts or methodologies as a foundation for your o
 
 ## 💬 Feedback and Contributions
 
-Your feedback is invaluable! If you have suggestions on how to improve these projects or if you've found an interesting way to extend the analysis, please don't hesitate to reach out or contribute.
+If you have suggestions on how to improve these projects or if you've found an interesting way to extend the analysis, please don't hesitate to reach out or contribute.
 
 Thank you for exploring my SQL projects.
 

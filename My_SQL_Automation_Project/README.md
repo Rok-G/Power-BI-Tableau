@@ -44,6 +44,6 @@ This project underscores the significance of automated data cleaning in enhancin
 
 Your contributions are welcome! Feel free to fork this project, enhance the cleaning process, expand the analyses, or refine the documentation.
 
-## ©️ License
+## License
 
 This project is released under the MIT License. See the [LICENSE](./LICENSE.md) file for more details.
